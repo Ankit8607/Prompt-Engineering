@@ -1,6 +1,6 @@
 # This file must be used with "source bin/activate" *from bash*
 # you cannot run it directly
-export OPENAI_API_KEY='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'
+export OPENAI_API_KEY='eQ1nLrNM67DfCDL'
 deactivate () {
     # reset old environment variables
     if [ -n "${_OLD_VIRTUAL_PATH:-}" ] ; then
